@@ -1,0 +1,31 @@
+.new-expense__controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+    margin-left: 20px;
+}
+  
+  .new-expense__control label {
+    font-weight: 500;
+    color: #000;
+    font-size: 14px;
+    letter-spacing: 2.5px;
+    margin-bottom: 0.5rem;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+}
+  
+  .new-expense__control input {
+    padding: 0.6rem;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    width: 14rem;
+    max-width: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+  
+  .new-expense__actions {
+    text-align: center;
+  }
