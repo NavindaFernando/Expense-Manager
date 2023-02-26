@@ -1,5 +1,5 @@
 <h3 align="center">
-Expense-Manager :currency_exchange:
+Expense-Manager :wind_chime:
 </h3>
 
 ![Screenshot (863)](https://user-images.githubusercontent.com/86073690/221372918-f983ecfd-4629-43c3-ad6b-48cb1e9ade94.png)
